@@ -1,6 +1,6 @@
 # Self Driving Cars State Estimation and Localization
 
-![Self Driving Cars Localization](media/cover.gif)
+![Self Driving Cars Localization](media/cover.png)
 
 
 ## Run the filter:
