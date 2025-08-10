@@ -1,3 +1,7 @@
+# Self Driving Cars State Estimation and Localization
+
+![Self Driving Cars Localization](media/cover.gif)
+
 
 ## Run the filter:
     ```bash
